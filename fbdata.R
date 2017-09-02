@@ -1,5 +1,5 @@
 getwd()
-setwd("C:/Users/AKANKSHA/Desktop/udacity/eda")
+setwd("C:/Users/AKANKSHA/Desktop/")
 list.files(
 )
 fbdata <- read.csv('pseudo_facebook.tsv',sep='\t')
